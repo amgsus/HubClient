@@ -1,0 +1,8 @@
+{
+  "name": "@amgsus/hub-client",
+  "version": "0.1.0",
+  "description": "Modern and flexible ES6 client for Hub server (Node.js)",
+  "main": "index.mjs",
+  "author": "A.G.",
+  "license": "MIT"
+}
