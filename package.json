@@ -1,0 +1,21 @@
+{
+  "name": "@amgsus/hub-client",
+  "version": "0.1.1",
+  "description": "Client for Hub server",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "KeyValue", "Dictionary", "Storage", "Mediator", "Microservice", "ES6", "ECMAScriptModule" ],
+  "author": "A.G.",
+  "homepage": "https://github.com/amgsus/HubClient",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.mjs",
+    "./auto": "./extras/auto.mjs",
+    "./stringify": "./lib/utils/stringify.mjs"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
