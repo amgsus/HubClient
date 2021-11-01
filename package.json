@@ -12,7 +12,7 @@
   "license": "MIT",
   "exports": {
     ".": "./index.mjs",
-    "./auto": "./extras/auto.mjs",
+    "./env": "./extras/env.mjs",
     "./stringify": "./lib/utils/stringify.mjs"
   },
   "engines": {
